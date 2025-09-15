@@ -1,2 +1,2 @@
 # IBM-SMART-CITY
-https://video-link-generator.replit.app/v/j1bekzh6robnokjlcg8kja
+https://drive.google.com/file/d/1ILyxOOp66KemULxW5u6upy2BC6wVilSf/view?usp=drivesdk
